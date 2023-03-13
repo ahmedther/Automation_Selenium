@@ -1,11 +1,11 @@
 Automated Bill Generator
 
-This project involved the development of an automated bill generator using Python and Selenium for the billing department. The aim was to automate repetitive daily bills and reduce the workload of the billing team. Additionally, the project utilized Python with Paramiko to automate repetitive tasks to the server.
+This project involved the development of an automated bill generator using Python and Selenium for the billing department. The aim was to automate repetitive daily bills and reduce the workload of the billing team.
 Project Highlights
 
     Developed an automated bill generator using Python and Selenium
     Reduced workload of the billing team by automating repetitive daily bills
-    Utilized Python with Paramiko to automate repetitive tasks to the server
+
     Improved the efficiency and accuracy of the billing process
 
 Technologies Used
